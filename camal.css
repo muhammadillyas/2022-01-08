@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+   background-image: url(camel.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+button{
+    margin-top: 10px;
+    border-width: 9px;
+    background-color: rgb(243, 105, 86);
+
+
+}
+
+.hello{
+    background-color: rgb(235, 62, 226);
+    padding:2px;
+    outline-style: groove 2px;
+    border-width: 7px;
+font-size: px;    
+}
+
+.number{
+    font-size: 50px;
+    color: aqua;
+    
+
+}
